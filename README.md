@@ -20,7 +20,7 @@ Twubric is a Next.js application that allows users to view and manage Twitter fo
 
 To run the Twubric application locally, follow these steps:
 
-1. Clone the repository: `bash
+1. Clone the repository: `
 git clone https://github.com/your-username/twubric.git
 cd twubric `
 
